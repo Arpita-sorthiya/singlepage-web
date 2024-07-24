@@ -1,0 +1,45 @@
+.btn{
+
+    color: white;
+    background-color: #73d536;
+    height: 50px;
+    border-radius: 0%;
+
+
+}
+
+.btn:hover{
+    color: white;
+    background-color: #00c6c3;
+    height: 50px;
+    
+
+}
+
+.md{
+    font-size: 170px;
+}
+@media(max-width:500px){
+
+    .md{font-size: 100px;}
+}
+
+.btn1{
+
+    height: 50px;
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+
+}
+
+.btn1:hover{
+
+    height: 50px;
+    background-color: #00c6c3;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    
+
+}
